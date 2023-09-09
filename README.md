@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sampreetklair
+- 👋 Hi, I’m Sampreet Klair
 - 👀 I’m interested in Computers and Programming
 - 🌱 I’m currently learning Coding different frameworks and Data Science 
 - 💞️ I’m looking to collaborate on Frontend, Backend and Data Analysis
