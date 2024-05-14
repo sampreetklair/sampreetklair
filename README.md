@@ -1,8 +1,8 @@
 ## About Me:
 - 👋 Hi, I’m Sampreet Klair
 - 👀 I’m interested in Computers and Programming
-- 🌱 I’m currently learning to code different frameworks and Data Science 
-- 💞️ I’m looking to collaborate on Frontend, Backend and Data Analysis
+- 🌱 I’m currently learning to code different frameworks and technologies
+- 💞️ I’m looking to collaborate on various Frontend and Backend project
 - 📫 How to reach me? @sampreetklair everywhere
 
 
